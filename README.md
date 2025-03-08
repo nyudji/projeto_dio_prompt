@@ -143,17 +143,13 @@ python scripts/analysis.py
 O código consolidará os dados, gerará gráficos e salvará o dataset processado em data/processed_data/.
 
 
-Análises Realizadas
-
-
+#### Análises Realizadas
 
 
 
     Produtos mais vendidos por marketplace e globalmente
 
-
     Distribuição de preços e análise de outliers
-
 
     Vendas por país, facilitando insights para otimização logística
 
@@ -164,7 +160,7 @@ Análises Realizadas
 Os gráficos gerados podem ser visualizados diretamente no VS Code ou em qualquer visualizador de imagens.
 
 
-Contribuição
+#### Contribuição
 
 
 
@@ -178,18 +174,9 @@ Caso queira contribuir com o projeto, siga estas etapas:
 
     Crie um fork do repositório
 
-
     Crie uma branch para suas alterações
 
-
-
-
-
     git checkout -b minha-feature
-
-
-
-
 
     Envie um pull request para revisão
 

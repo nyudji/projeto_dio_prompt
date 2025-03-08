@@ -1,0 +1,10 @@
+streamlit
+yt-dlp
+numpy
+openai
+moviepy
+transformers
+wave
+whisper
+librosa
+torch

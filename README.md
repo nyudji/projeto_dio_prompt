@@ -80,19 +80,17 @@ cd meganium-sales-analysis
 
 
 
-python -m venv venv
+Windows
 
 
 
 
 
-    Windows:
+    python -m venv env
+    
+    env\Scripts\activate
 
 
-
-
-
-venv\Scripts\activate
 
 
 
